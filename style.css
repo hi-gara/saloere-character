@@ -413,9 +413,6 @@ main {
 ======================================== */
 
 .infobox {
-  position: sticky;
-  top: 25px;
-
   border: 1px solid var(--line);
   background: var(--panel);
 }
